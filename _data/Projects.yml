@@ -1,5 +1,5 @@
 subject: Projects
-listing-order: 3
+listing-order: 4
 icon: "/assets/img/clipboard-list.svg"
 contents:
   - title: "Pet MatchMaker  ([https://pet-matchmaker-fe.vercel.app/](https://pet-matchmaker-fe.vercel.app/))"
@@ -14,8 +14,9 @@ contents:
       - Completed project in 18 hours
       - "Technology Used: React,  Router, Asynchronous Javascript, CSS, JSX, Ruby, Ruby on Rails, ActiveRecord, RSpec"
     image: "![](https://camo.githubusercontent.com/19423672d28121bc2d4e404b4351a318e81731dfe3680cf3819d4312da052cd1/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784f5770776248517765475a346554686b4d444933646e6831595734774e484a6a646e6c7a656a4631624731754f584d32644745335a795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f446f5979346c57726a5774503467366478432f67697068792e676966)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
+  - title: "Tracker ([https://tracker-crm-fe-38f7cf1aaca5.herokuapp.com/](https://tracker-crm-fe-38f7cf1aaca5.herokuapp.com/))" 
     description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+        - Contributed to a team-built job tracking app simulating a real-world development environment, adding features and resolving user experience bugs in an existing codebase
+        - Implemented CSV parsing functionality for bulk contact import and resolved a date validation issue to improve flexibility for users managing applications in progress
+        - "Technology Used: React, Tailwind CSS, Cypress, Typescript, Ruby on Rails, CircleCI"
+    image: "![](https://github.com/turingschool/tracker-crm-fe/raw/main/public/assets/images/tracker.png)"
