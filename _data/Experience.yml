@@ -1,22 +1,22 @@
 subject: Experiences
-listing-order: 2
+listing-order: 3
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Hamburg Hills - Organic Valley Farm
+    role: Herd Manager
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+        - Provided hands-on veterinary support and daily care for calves and dairy cows, including procedures such as vaccine administration, blood collection, IV medication administration, dehorning, and catheter placement
+        - Managed herd health across multiple farm sites by monitoring livestock, administering treatments, maintaining records, and assisting with equipment operation and pasture management
+    date: Sept. 2014 - Ongoing
+  - title: Damn Tasty
+    role: Server/Barista/Baker
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
+      - Cross-trained in roles including barista, server, and host, contributing to a small team focused on delivering a diverse, thoughtfully crafted menu in a fast-paced environment
+      - Arrived by 5 AM daily to independently prepare 30–40 fresh baked items, setting up the café for a smooth opening.
+    date: Oct. 2023 - Ongoing
+  - title: Hillcrest Veterinary Service
+    role: Veterinary Assistant
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+       - Assisted in diagnostics and procedures for small animals, cattle, and horses through blood collection, cytology prep, anesthesia monitoring, radiographs, and surgical support
+       - Maintained lab operations, managed inventory and billing, and provided attentive client service from intake to discharge in a clinical setting
+    date: May. 2018 - Aug. 2023
