@@ -19,4 +19,4 @@ contents:
         - Contributed to a team-built job tracking app simulating a real-world development environment, adding features and resolving user experience bugs in an existing codebase
         - Implemented CSV parsing functionality for bulk contact import and resolved a date validation issue to improve flexibility for users managing applications in progress
         - "Technology Used: React, Tailwind CSS, Cypress, Typescript, Ruby on Rails, CircleCI"
-    image: "/assets/img/contact_paser.gif"
+    image: "/assets/img/contact_parser.gif"
